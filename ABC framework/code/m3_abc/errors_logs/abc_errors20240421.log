@@ -1,0 +1,307 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:13:26] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\TestFlask.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:19:00] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:19:54] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:20:23] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:30:43] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:38:58] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:39:31] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:40:30] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 396, in Null_Value_Checks
+    raise Exception("Datachecks->Warning:No Source Type Provided")
+Exception: Datachecks->Warning:No Source Type Provided
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:44:31] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:48:03] "[35m[1mGET /AuditAPI?summary=a&change=k HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:48:04] "[36mGET /AuditAPI?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:48:04] "[36mGET /AuditAPI?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:48:04] "[36mGET /AuditAPI?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:48:04] "[36mGET /AuditAPI?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\TestFlask.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\TestFlask.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\TestFlask.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\TestFlask.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check audit paramters
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\TestFlask.py", line 42, in AuditAPI
+    meta=CollectMetaData(Staging,STCon,Type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 180, in __init__
+    raise Exception("CollectMetaData:Source Type Is Missing.")
+Exception: CollectMetaData:Source Type Is Missing.
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 321, in Null_Value_Checks
+    match self.Meta.get_Type():
+          ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_Type'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:52:44] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3_abc\\abcframework.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check audit paramters
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\TestFlask.py", line 42, in AuditAPI
+    meta=CollectMetaData(Staging,STCon,Type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 180, in __init__
+    raise Exception("CollectMetaData:SourceType paramter Is Missing.")
+Exception: CollectMetaData:SourceType paramter Is Missing.
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 321, in Null_Value_Checks
+    match self.Meta.get_Type():
+          ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_Type'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:54:49] "GET /AuditAPI?summary=a&change=k HTTP/1.1" 200 -
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check audit paramters
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\TestFlask.py", line 42, in AuditAPI
+    meta=CollectMetaData(Staging,STCon,Type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 180, in __init__
+    raise Exception("CollectMetaData:SourceType paramter Is Missing.")
+Exception: CollectMetaData:SourceType paramter Is Missing.
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 321, in Null_Value_Checks
+    match self.Meta.get_Type():
+          ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_Type'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:56:33] "GET /AuditAPI?summary=a&change=k&SourceType=db HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check audit paramters
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\TestFlask.py", line 42, in AuditAPI
+    meta=CollectMetaData(Staging,STCon,Type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 180, in __init__
+    raise Exception("CollectMetaData:SourceType paramter Is Missing.")
+Exception: CollectMetaData:SourceType paramter Is Missing.
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 321, in Null_Value_Checks
+    match self.Meta.get_Type():
+          ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_Type'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:57:13] "GET /AuditAPI?summary=a&change=k&SourceType=db HTTP/1.1" 200 -
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check audit paramters
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\TestFlask.py", line 42, in AuditAPI
+    meta=CollectMetaData(Staging,STCon,Type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 180, in __init__
+    raise Exception("CollectMetaData:SourceType paramter Is Missing.")
+Exception: CollectMetaData:SourceType paramter Is Missing.
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 321, in Null_Value_Checks
+    match self.Meta.get_Type():
+          ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_Type'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:58:28] "GET /AuditAPI?summary=a&change=k&TargetType=db HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 324, in Null_Value_Checks
+    cnxn = pyodbc.connect(self.Meta.get_STCon())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyodbc.InterfaceError: ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 15:59:17] "GET /AuditAPI?summary=a&change=k&TargetType=db HTTP/1.1" 200 -
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 324, in Null_Value_Checks
+    cnxn = pyodbc.connect(self.Meta.get_STCon())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyodbc.InterfaceError: ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 16:01:17] "GET /AuditAPI?summary=a&change=k&TargetType=db&ConnectionTarget='Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;' HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\TestFlask.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 324, in Null_Value_Checks
+    cnxn = pyodbc.connect(self.Meta.get_STCon())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyodbc.InterfaceError: ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect); [IM002] [Microsoft][ODBC Driver Manager] Invalid connection string attribute (0)')
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 16:02:13] "GET /AuditAPI?summary=a&change=k&TargetType=db&ConnectionTarget='Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;' HTTP/1.1" 200 -
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 255, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 326, in Null_Value_Checks
+    Tuples = self.Meta.getsqlserverMeta()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\code\m3_abc\abcframework.py", line 229, in getsqlserverMeta
+    MetaDic = dict(zip(names, row))
+                   ^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 16:03:20] "GET /AuditAPI?summary=a&change=k&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 16:04:38] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 18:51:49] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3abcapi.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 19:00:35] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3abcapi.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\code\\m3abcapi.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 19:10:55] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
