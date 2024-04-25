@@ -1,0 +1,360 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 13:58:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 13:58:46] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=([%20{"checks":"Uniqueness",%20"Source":"Target",%20"columns":["ID",%20"RevenueStream"]},%20{"checks":"Volume",%20"Source":"Target","FilterSource":"ID=0","Target":"Target","FilterTarget":"2=2"},%20{"checks":"Reference",%20"Source":"Source","Sourcecolumns":["ID",%20"RevenueStream"],"Target":"Target","Targetcolumns":["ID",%20"RevenueStream"]}%20]) HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:01:59] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[%20{"checks":"Uniqueness",%20"Source":"Target",%20"columns":["ID",%20"RevenueStream"]},%20{"checks":"Volume",%20"Source":"Target","FilterSource":"ID=0","Target":"Target","FilterTarget":"2=2"},%20{"checks":"Reference",%20"Source":"Source","Sourcecolumns":["ID",%20"RevenueStream"],"Target":"Target","Targetcolumns":["ID",%20"RevenueStream"]}%20] HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:03:26] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[{"checks":"Uniqueness",%20"Source":"Target",%20"columns":["ID",%20"RevenueStream"]}] HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:04:37] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[{checks:Uniqueness,%20Source:Target,%20columns:[ID,%20RevenueStream]}] HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:06:24] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[{checks:Uniqueness,%20Source:Target,%20columns:[ID,%20RevenueStream]}] HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:06:58] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[{checks:Uniqueness,%20Source:Target,%20columns:[ID,%20RevenueStream]}] HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:11:27] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[{checks:Uniqueness,%20Source:Target,%20columns:[ID,%20RevenueStream]}] HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:13:33] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[{checks:Uniqueness,%20Source:Target,%20columns:[ID,%20RevenueStream]}] HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:15:03] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[{checks:Uniqueness,%20Source:Target,%20columns:[ID,%20RevenueStream]}] HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:17:06] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=[{'checks':%20'Uniqueness',%20'Source':%20'Target',%20'columns':%20['ID',%20'RevenueStream']},%20{'checks':%20'Volume',%20'Source':%20'Target',%20'FilterSource':%20'ID=0',%20'Target':%20'Target',%20'FilterTarget':%20'2=2'},%20{'checks':%20'Reference',%20'Source':%20'Source',%20'Sourcecolumns':%20['ID',%20'RevenueStream'],%20'Target':%20'Target',%20'Targetcolumns':%20['ID',%20'RevenueStream']}] HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:22:05] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams={"checks":%20"Uniqueness",%20"Source":%20"Target",%20"columns":%20["ID",%20"RevenueStream"]} HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:23:14] "[35m[1mPOST /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams={"checks":%20"Uniqueness",%20"Source":%20"Target",%20"columns":%20["ID",%20"RevenueStream"]} HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:23:34] "[35m[1mPOST /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:23:45] "[35m[1mPOST /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:24:27] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:24:43] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:25:23] "[35m[1mPOST /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:26:19] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:28:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:28:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:35:13] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:35:54] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:36:09] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:36:32] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:36:48] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:37:05] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:37:48] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30; HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:38:09] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&OtherParams=[{"checks":%20"Uniqueness",%20"Source":%20"Target",%20"columns":%20["ID",%20"RevenueStream"]}] HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:39:15] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&OtherParams=([{"checks":%20"Uniqueness",%20"Source":%20"Target",%20"columns":%20["ID",%20"RevenueStream"]}]) HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:39:38] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=([{"checks":%20"Uniqueness",%20"Source":%20"Target",%20"columns":%20["ID",%20"RevenueStream"]}]) HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+ERROR:root:Data_checks->String_Patterns: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 310, in __init__
+    patterns = l["pattern"]
+               ~^^^^^^^^^^^
+KeyError: 'pattern'
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:53:06] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=([{"checks":%20"Uniqueness",%20"Source":%20"Target",%20"columns":%20["ID",%20"RevenueStream"]}]) HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.111.204:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:54:25] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=([{"checks":%20"Uniqueness",%20"Source":%20"Target",%20"columns":%20["ID",%20"RevenueStream"]}]) HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 14:55:00] "GET /AuditAPI?Source=Source&Target=Target&TargetType=db&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30&OtherParams=([{"checks":%20"Uniqueness",%20"Source":%20"Target",%20"columns":%20["ID",%20"RevenueStream"]}]) HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.100:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:13:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.100:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:17:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.100:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:31:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:45:36] "[33mGET /AuditAPI/SourceType=db&TargetType=db&ConnectionSource=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&Source=Source&Target=Target HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:46:16] "[33mGET /AuditAPI/SourceType=db&TargetType=db&ConnectionSource=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&Source=Source&Target=Target HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:46:58] "[33mGET /AuditAPI/SourceType=db&TargetType=db&ConnectionSource=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&Source=Source&Target=Target HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:46:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:49:42] "[33mGET /AuditAPI/?SourceType=db&TargetType=db&ConnectionSource=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&Source=Source&Target=Target HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:50:04] "[33mGET /AuditAPI/?SourceType=db HTTP/1.1[0m" 404 -
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check audit paramters
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 775, in AuditAPI
+    meta=CollectMetaData(Staging,STCon,Type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 181, in __init__
+    raise Exception("CollectMetaData:SourceType paramter Is Missing.")
+Exception: CollectMetaData:SourceType paramter Is Missing.
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 256, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 334, in Null_Value_Checks
+    match self.Meta.get_Type():
+          ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_Type'
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:50:14] "GET /AuditAPI HTTP/1.1" 200 -
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check audit paramters
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 775, in AuditAPI
+    meta=CollectMetaData(Staging,STCon,Type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 181, in __init__
+    raise Exception("CollectMetaData:SourceType paramter Is Missing.")
+Exception: CollectMetaData:SourceType paramter Is Missing.
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 256, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 334, in Null_Value_Checks
+    match self.Meta.get_Type():
+          ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_Type'
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:50:23] "GET /AuditAPI HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+ERROR:root:Data_checks->Null_Value: Something went wrong: Please check OtherParams values
+Traceback (most recent call last):
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 256, in __init__
+    self.Null_Value_Checks()
+  File "c:\Users\BensBernard\OneDrive - Momentum3, LLC\Documents\Data Services\ABC framework\abcapi\app.py", line 337, in Null_Value_Checks
+    cnxn = pyodbc.connect(self.Meta.get_STCon())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyodbc.OperationalError: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]TCP Provider: Timeout error [258].  (258) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Invalid connection string attribute (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Unable to complete login process due to delay in login response (258)')
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:50:54] "GET /AuditAPI?SourceType=db&TargetType=db&ConnectionSource=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&Source=Source&Target=Target HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:53:45] "GET /AuditAPI?SourceType=db&TargetType=db&ConnectionSource=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&Source=Source&Target=Target HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\serviceconsumerExample.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-423-306
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 23:55:54] "GET /AuditAPI?SourceType=db&TargetType=db&ConnectionSource=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&ConnectionTarget=Driver={ODBC%20Driver%2017%20for%20SQL%20Server};Server=tcp:mysqlserver20204.database.windows.net,1433;Database=mysqldb;Uid=mysqluser;Pwd=Mypassword2024;Encrypt=yes;TrustServerCertificate=no;Connection%20Timeout=30;&Source=Source&Target=Target&OtherParams=[%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20{"checks":"Uniqueness",%20"Source":"Target",%20"columns":["ID",%20"RevenueStream"]},%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20{"checks":"Volume",%20"Source":"Target","FilterSource":"ID=0","Target":"Target","FilterTarget":"2=2"},%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20{"checks":"Reference",%20"Source":"Source","Sourcecolumns":["ID",%20"RevenueStream"],"Target":"Target","Targetcolumns":["ID",%20"RevenueStream"]}%0A%20%20%20%20%20%20%20%20%20%20%20%20%20] HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\BensBernard\\OneDrive - Momentum3, LLC\\Documents\\Data Services\\ABC framework\\abcapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
